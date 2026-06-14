@@ -1,0 +1,14 @@
+{
+  "bio_name": "Jan Vališ",
+  "bio_subtitle": "Cinematographer — Prague",
+  "bio_text": "Jan Vališ is a cinematographer working at the intersection of light, emotion, and narrative precision.\n\nWith a background spanning commercial production, independent film, and fashion, his work is defined by an obsessive attention to atmosphere.\n\nHis lens is a collaborator, not a recorder.\n\nBased in Prague & available worldwide.",
+  "bio_photo": "https://media.base44.com/images/public/6a00622eb055a66c6479b314/17e57d5f5_hf_20260527_182411_c772633e-e280-460b-98aa-427c688fcb18.png",
+  "contact_email": "xjvalis@gmail.com",
+  "contact_heading": "Get in touch",
+  "contact_subheading": "Contact",
+  "social_links": [
+    { "label": "INSTAGRAM", "url": "https://instagram.com" },
+    { "label": "LINKEDIN", "url": "https://linkedin.com" },
+    { "label": "IMDB", "url": "https://imdb.com" }
+  ]
+}
