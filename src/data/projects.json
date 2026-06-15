@@ -115,5 +115,18 @@
     "thumbnailUrl": "https://media.base44.com/images/public/6a26a789ac9300eebcb99bdb/9a7bcfbbd_image.png",
     "videoUrl": "https://vimeo.com/1158855861?share=copy&fl=sv&fe=ci",
     "id": "1781084658064"
+  },
+  {
+    "title": "Passion project",
+    "clientBrand": "Ze Me Projekt",
+    "category": "other",
+    "descriptor": "",
+    "aspectRatio": "9:16",
+    "sortOrder": 10,
+    "isVisible": true,
+    "featured": false,
+    "thumbnailUrl": "https://i.imgur.com/ZgON5lq.png",
+    "videoUrl": "https://vimeo.com/1201453987/",
+    "id": "1781534343194"
   }
 ]
